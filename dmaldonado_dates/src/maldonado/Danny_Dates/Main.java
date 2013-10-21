@@ -22,6 +22,7 @@ public class Main {
 		else if(num == 2)
 		{
 			Aniversary ani = new Aniversary();
+			ani.aniversaryDate();
 		}
 		else if(num == 3)
 		{
